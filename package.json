@@ -1,6 +1,6 @@
 {
   "private": true,
-  "homepage": "https://h-ris.github.io/risxu.github.io",
+  "homepage": "https://github.com/h-ris/risxu.github.io",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
