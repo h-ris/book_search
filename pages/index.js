@@ -117,7 +117,7 @@ export default function Home() {
 
       <div className="mt-20 mb-10 text-center">
         <p className="text-primary text-xs">
-          Created in May 2023
+          Created by Ris in May, 2023 
         </p>
       </div>
     </div>
